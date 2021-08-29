@@ -1,0 +1,15 @@
+.card{
+	display: block;
+	padding: 2 * $base-padding;
+	border: 1px solid $border-color;
+	box-shadow: $box-shadow;
+
+	.card-title{
+		margin-bottom: 1rem;
+		font-weight: bold;
+	}
+	.card-body{
+		font-size: $base-font-size;
+		color: ;
+	}
+}

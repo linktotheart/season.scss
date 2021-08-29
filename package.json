@@ -1,0 +1,16 @@
+{
+  "name": "season.scss",
+  "version": "1.0.0",
+  "description": "sass framework. Minimal bootstrap!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pulkit singh",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.38.2"
+  }
+}
